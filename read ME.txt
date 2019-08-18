@@ -1,0 +1,2 @@
+MAMP web server :
+Document Root is : C:\MAMP\htdocs\thewallchaleng\public
